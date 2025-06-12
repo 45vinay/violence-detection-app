@@ -1,5 +1,5 @@
-# violence-detection-app
-A deep learning-based system that detects violence in short video clips using Convolutional Neural Networks (CNN) and a Streamlit web interface. Ideal for public surveillance and real-time safety applications.
+# violence-detection-app  
+A deep learning-based system that detects violence in short video clips using Convolutional Neural Networks (CNN) and a Streamlit web interface. Ideal for public surveillance and real-time safety applications.  
 # Violence Detection in Real-Life Videos 🎥🧠
 
 This project implements a deep learning-based solution to detect violent activities in short video clips. It uses a Convolutional Neural Network (CNN) for frame-wise classification and provides a simple and interactive web interface using Streamlit.
@@ -34,8 +34,8 @@ This project implements a deep learning-based solution to detect violent activit
 
 ## 🚀 How to Run Locally
 
-step 1 . : download dataset fron kaggle using the link(https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset) .
-step 2 . : extract the datset .
+step 1 . : download dataset fron kaggle using the link(https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset) .  
+step 2 . : extract the datset .  
 step 3 . : create a folder structure like this  
            violent_detection_project  /  
 	         ├── data/  
